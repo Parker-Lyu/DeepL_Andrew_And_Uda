@@ -5,3 +5,7 @@
 .ipynb_checkpoints/*
 */*/.ipynb_checkpoints/*
 .idea/*
+*/cifar-10-batches-py/*
+*/cifar-10-python.tar.gz
+*/preprocess*
+4image-classification/image*
