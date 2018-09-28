@@ -10,3 +10,7 @@
 */preprocess*
 4image-classification/image*
 */checkpoints/*
+6embeddings/__pycache__/*
+6embeddings/data/*
+6embeddings/utils.py
+6embeddings/text8.zip
