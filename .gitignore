@@ -15,3 +15,5 @@
 6embeddings/utils.py
 6embeddings/text8.zip
 */checkpoints/*
+10tv-script-generation/save*
+10tv-script-generation/checkpoint
