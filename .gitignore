@@ -17,3 +17,4 @@
 */checkpoints/*
 10tv-script-generation/save*
 10tv-script-generation/checkpoint
+*/MNIST_data/*
