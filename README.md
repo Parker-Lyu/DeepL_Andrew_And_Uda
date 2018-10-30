@@ -38,5 +38,7 @@ Andrew深度学习笔记，以及Udacity的深度学习纳米学位相关代码
 ### 12. RNN, Many-to-Many, 语言翻译模型
 ### 13. autoencoder自编码器
 > ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/13autoencoder/show.png)
-
+### 15. Batch-Normalization 详细实验
+### 16. DCGAN 门牌号生成
+> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/16dcgan-svhn/show.png)
 
