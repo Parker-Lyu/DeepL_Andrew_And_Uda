@@ -11,4 +11,4 @@ Andrew深度学习笔记，以及Udacity的深度学习纳米学位相关代码
 
 ### 1,2,实现反向传播实现代码
 >自己实现神经网络及反向传播代码，并依次预测共享单车使用情况
-> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/2first-neural-network/show.gif)
+> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/2first-neural-network/show.png)
