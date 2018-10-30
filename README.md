@@ -25,3 +25,6 @@ Andrew深度学习笔记，以及Udacity的深度学习纳米学位相关代码
 
 ### 6. Skip-Gram word2vec，构建词向量
 > ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/6embeddings/show.png)
+
+### 7. RNN预测股价变化趋势
+> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/7Rnn-Predict-Stock-Prices-Easily-Demo/show.png)
