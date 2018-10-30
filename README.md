@@ -18,3 +18,10 @@ Andrew深度学习笔记，以及Udacity的深度学习纳米学位相关代码
 ### 3. 手写全连接网络，对评论进行正负分类并查看词向量
 >自己实现神经网络，对评论进行正负分类，并对权重矩阵降维，查看词向量
 > ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/3sentiment-network/show.PNG)
+
+### 4. CIFAR-10数据集图像分类
+
+### 5. 字符级别的RNN
+
+### 6. Skip-Gram word2vec，构建词向量
+> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/6embeddings/show.png)
