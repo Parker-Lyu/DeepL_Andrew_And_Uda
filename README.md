@@ -31,3 +31,12 @@ Andrew深度学习笔记，以及Udacity的深度学习纳米学位相关代码
 
 ### 8. 神经风格转换
 > ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/8Style-Transform/show.png)
+
+### 9. RNN, Many-to-Many模型，文本总结
+### 10. RNN Many-to-Many模型，文本生成
+### 11. tf端的迁移学习
+### 12. RNN, Many-to-Many, 语言翻译模型
+### 13. autoencoder自编码器
+> ![](https://raw.githubusercontent.com/Parker-Lyu/DeepL_Andrew_And_Uda/master/13autoencoder/show.png)
+
+
